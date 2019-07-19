@@ -52,7 +52,7 @@ sd(w1)
 sd(w2)
 s_dev(w1)
 s_dev(w2)
-hh
+
 coef(w1)
 coef(w2)
 
